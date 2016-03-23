@@ -6,3 +6,12 @@
 .DS_Store
 /build
 /captures
+# build files
+bin/
+gen/
+output/
+# android studio
+*.iml
+.idea
+
+
