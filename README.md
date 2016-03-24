@@ -1,3 +1,24 @@
+#FileDownloader源码分析
+1.FileDownloadRunnable是下载的核心类
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#--------------------------------------------divide---------------------------------------------
+
+
 # FileDownloader
 Android multi-task file download engine.
 
